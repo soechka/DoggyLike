@@ -1,0 +1,13 @@
+D:\Microsoft Visual Studio\DogLeave\DogLeave\bin\Debug\DogLeave.exe.config
+D:\Microsoft Visual Studio\DogLeave\DogLeave\bin\Debug\DogLeave.exe
+D:\Microsoft Visual Studio\DogLeave\DogLeave\bin\Debug\DogLeave.pdb
+D:\Microsoft Visual Studio\DogLeave\DogLeave\bin\Debug\OpenTK.dll
+D:\Microsoft Visual Studio\DogLeave\DogLeave\bin\Debug\RLNET.dll
+D:\Microsoft Visual Studio\DogLeave\DogLeave\bin\Debug\RogueSharp.dll
+D:\Microsoft Visual Studio\DogLeave\DogLeave\bin\Debug\OpenTK.xml
+D:\Microsoft Visual Studio\DogLeave\DogLeave\obj\Debug\DogLeave.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\DogLeave\DogLeave\obj\Debug\DogLeave.csproj.CopyComplete
+D:\Microsoft Visual Studio\DogLeave\DogLeave\obj\Debug\DogLeave.exe
+D:\Microsoft Visual Studio\DogLeave\DogLeave\obj\Debug\DogLeave.pdb
+D:\Microsoft Visual Studio\DogLeave\DogLeave\bin\Debug\terminal8x8.png
+D:\Microsoft Visual Studio\DogLeave\DogLeave\obj\Debug\DogLeave.csprojAssemblyReference.cache
