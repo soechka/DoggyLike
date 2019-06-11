@@ -1,2 +1,2 @@
 # DoggyLike
-Descrr
+Roguelike game in console windows
