@@ -1,2 +1,2 @@
 # DoggyLike
-Roguelike game in console windows
+Roguelike game in console
